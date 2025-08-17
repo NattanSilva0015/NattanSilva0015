@@ -4,7 +4,7 @@
 
 Me chamo Nattan Silva, tenho 18 anos, sou de Muriaé, MG. Concluí o ensino médio
 na Escola Cônego Américo Duarte em Rosário da Limeira. Atualmente, estou cursando
-Análise e Desenvolvimento de Sistemas na FASM em Muriaé. A tecnologia sempre me chamou muita atenção e isso me despertou curiosidade como tudo funciona.
+Análise e Desenvolvimento de Sistemas na FASM em Muriaé. Tecnologia sempre me chamou muita atenção e isso me despertou curiosidade em estudar e atuar por trás desse universo.
 
 <p align="left">
     <a href="https://github.com/NattanSilva0015?tab=repositories&sort=stargazers">
