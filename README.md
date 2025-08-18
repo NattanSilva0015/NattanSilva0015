@@ -12,7 +12,7 @@ Acesse o "[Meu portifólio](https://nattansilva0015.github.io/portifolio/)"
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <div align="left">
-        <a href="https://www.linkedin.com/in/nattan-silva-535bbb354" target="_blank">
+        <a href="https://www.linkedin.com/in/NattanSilva0015" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
     </a>
     <a href="mailto:nattansilva0015@gmail.com" target="_blank">
