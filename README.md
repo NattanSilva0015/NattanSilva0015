@@ -4,26 +4,24 @@
 
 Me chamo Nattan Silva, tenho 18 anos, sou de Muriaé, MG. Concluí o ensino médio
 na Escola Cônego Américo Duarte em Rosário da Limeira. Atualmente, estou cursando
-Análise e Desenvolvimento de Sistemas na FASM em Muriaé. Tecnologia sempre me chamou muita atenção e isso me despertou curiosidade em estudar e atuar por trás desse universo.
+Análise e Desenvolvimento de Sistemas na FASM em Muriaé. A tecnologia sempre me chamou muita atenção e isso me despertou curiosidade como tudo funciona.
 
 Acesse o "[Meu portifólio](https://nattansilva0015.github.io/portifolio/)"
 
 
 <p align="left">
-    <a href="https://github.com/NattanSilva0015?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/NattanSilva0015?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+        <div align="left">
+        <a href="https://www.linkedin.com/in/nattan-silva-535bbb354" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
     </a>
-    <a href="https://github.com/NattanSilva0015?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/NattanSilva0015?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+    <a href="mailto:nattansilva0015@gmail.com" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
     </a>
+    <a href="https://www.instagram.com/nattansilva0015" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    </a>
+    </div>
 </p>
 
 ---
@@ -96,7 +94,7 @@ Acesse o "[Meu portifólio](https://nattansilva0015.github.io/portifolio/)"
 
 <p>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -104,10 +102,17 @@ Acesse o "[Meu portifólio](https://nattansilva0015.github.io/portifolio/)"
   />
 
 <img 
-      align="left" 
+      align="center" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NattanSilva0015&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
+
+<!-- #Skake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
