@@ -1,4 +1,4 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ffffff&reversal=false&section=reeder&fontColor=c576c1">
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ffffff&reversal=false&section=reeder&fontColor=c576c1" style="width:100%; max-width:100%; height:auto;">
 
 <h1 align="center">🧑🏻‍💻 Nattan Silva </h1>
 
@@ -39,7 +39,7 @@ Tecnologia sempre me chamou muita atenção e por isso decidi me aprofundar e at
 ### 🤖 Linguagens e Tecnologias
 
 
-<a align="center" href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,java,php,python,git,mysql,github,vscode&theme=dark&perline=15" alt="My Skills" /></a>
+<a href="https://skillicons.dev"><img align="center" src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,java,php,python,git,mysql,github,vscode&theme=dark&perline=15" alt="My Skills" /></a>
 
 ---
 
