@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00000a&reversal=false&section=reeder&fontColor=c576c1">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ffffff&reversal=false&section=reeder&fontColor=c576c1">
 
 <h1 align="center">🧑🏻‍💻 Nattan Silva </h1>
 
