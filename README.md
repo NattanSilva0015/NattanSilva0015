@@ -1,114 +1,77 @@
-# 🧑🏻‍💻 Nattan Silva
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=blue&reversal=false&section=reeder&fontColor=c576c1">
 
-**`Estudante de Análise e Desenvolvimento de Softwares`**
+<h1 align="center">🧑🏻‍💻 Nattan Silva </h1>
 
-Me chamo Nattan Silva, tenho 18 anos, sou de Muriaé, MG. Concluí o ensino médio
-na Escola Cônego Américo Duarte em Rosário da Limeira. Atualmente, estou cursando
-Análise e Desenvolvimento de Sistemas na FASM em Muriaé. A tecnologia sempre me chamou muita atenção e isso me despertou curiosidade como tudo funciona.
+<p align="center">Estudante de Análise e Desenvolvimento de Softwares</p>
 
-Acesse o "[Meu portifólio](https://nattansilva0015.github.io/portifolio/)"
+<p align="center"> Sou Nattan Silva, tenho 18 anos, sou de Rosário da Limeira, MG.
+Estou cursando
+Análise e Desenvolvimento de Sistemas na FASM em Muriaé.
+Tecnologia sempre me chamou muita atenção e por isso decidi me aprofundar e atuar na área.</p>
 
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <div align="left">
-        <a href="https://www.linkedin.com/in/NattanSilva0015" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-    </a>
-    <a href="mailto:nattansilva0015@gmail.com" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-    </a>
-    <a href="https://www.instagram.com/nattansilva0015" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-    </a>
-    </div>
+
+<p align="center">
+  <!-- Email -->
+  <a href="mailto:nattansilva0015@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <!-- Linkedin -->
+  <a href="https://www.linkedin.com/in/NattanSilva0015">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/NattanSilva0015">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <!-- Portifolio -->
+  <a href="https://nattansilva0015.github.io/portifolio/">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=flat&logo=about.me&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NattanSIlva0015&style=flat-square&color=blue" />
 </p>
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 
-<br/>
-<br/>
+<a align="center" href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,java,php,python,git,mysql,github,vscode&theme=dark&perline=15" alt="My Skills" /></a>
 
 ---
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=NattanSilva0015&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
+  <p>
+    
+  <img
+        align="center"
+        alt="Github Stats"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=NattanSilva0015&theme=dark&hide_border=false"
+      />
 
-<img 
+  <img 
       align="center" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NattanSilva0015&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+      style="padding-right: 10px;" 
+      src="https://github-readme-stats.vercel.app/api?username=NattanSilva0015&show_icons=true&theme=dark&hide_borderinclude_all_commits=true&locale=pt-br" 
+    />
 
-</p>
+  <img 
+        align="center" 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=NattanSilva0015&theme=dark&hide_border=compact&custom_title=Tecnologias&langs_count=9" 
+    />
+  </p>
+</div>
+
+---
 
 <!-- #Skake -->
 <picture>
