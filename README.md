@@ -25,7 +25,7 @@ Tecnologia sempre me chamou muita atenção e por isso decidi me aprofundar e at
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
   <!-- Portifolio -->
-  <a href="https://nattansilva0015.github.io/portifolio/">
+  <a href="https://nattansilva0015.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=flat&logo=about.me&logoColor=white"/>
   </a>
 </p>
